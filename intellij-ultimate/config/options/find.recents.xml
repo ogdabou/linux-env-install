@@ -1,0 +1,42 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>runL</find>
+      <find>spring-boot</find>
+      <find>spark</find>
+      <find>bigdada</find>
+      <find>update</find>
+      <find>postgres</find>
+      <find>hadoop</find>
+      <find>monitorAdre</find>
+      <find>zip</find>
+      <find>-mkdir</find>
+      <find>HELP</find>
+      <find>producer</find>
+      <find>producer.properties</find>
+      <find>asse</find>
+      <find>package</find>
+      <find>assembly</find>
+      <find>topics</find>
+      <find>topic&amp;</find>
+      <find>module</find>
+      <find>lag</find>
+      <find>inserting</find>
+      <find>data</find>
+      <find>readme</find>
+      <find>_build</find>
+      <find>group</find>
+      <find>topic</find>
+      <find>hib</find>
+      <find>db</find>
+      <find>site</find>
+      <find>-c</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>-mkdir -p</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/git/osintlab-bigdata/monitor-kafka/src/main/java/com/thales/communications/osintlab/simulator/back</dir>
+    </dirStrings>
+  </component>
+</application>

@@ -1,0 +1,206 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="kafka-producer" values="ECMAScript 5.1" collectionTime="1469453425410" />
+      <project id="common-webservices" values="ECMAScript 5.1" collectionTime="1469174334423" />
+      <project id="speedlayer" values="ECMAScript 5.1" collectionTime="1469523232922" />
+      <project id="osintlab-architecture" values="ECMAScript 5.1" collectionTime="1471525860171" />
+      <project id="POC_Distribution" values="ECMAScript 5.1" collectionTime="1471618072584" />
+      <project id="POC_UI_Server" values="ECMAScript 5.1" collectionTime="1471531131237" />
+      <project id="punchplatform-builder" values="ECMAScript 5.1" collectionTime="1467900402497" />
+      <project id="cloudomc" values="ECMAScript 5.1" collectionTime="1469025929112" />
+      <project id="KafkaOffsetMonitor" values="ECMAScript 5.1" collectionTime="1471508806224" />
+      <project id="kafka-offset-monitor-graphite" values="ECMAScript 5.1" collectionTime="1469719876679" />
+      <project id="punchplatform-spark-test" values="ECMAScript 5.1" collectionTime="1467124985219" />
+      <project id="KafkaOffsetMonitor_EsPlugin" values="ECMAScript 5.1" collectionTime="1469719430825" />
+      <project id="simulator-monitoring" values="ECMAScript 5.1" collectionTime="1469534311807" />
+      <project id="batchlayer" values="ECMAScript 5.1" collectionTime="1469195112078" />
+      <project id="osintlab-bigdata" values="ECMAScript 5.1" collectionTime="1471619004730" />
+      <project id="LMCAnomalyDetection" values="ECMAScript 5.1" collectionTime="1468224912564" />
+    </group>
+    <group name="module type">
+      <project id="kafka-producer" values="JAVA_MODULE" collectionTime="1469453425269" />
+      <project id="common-webservices" values="JAVA_MODULE" collectionTime="1469174333856" />
+      <project id="speedlayer" values="JAVA_MODULE" collectionTime="1469523232815" />
+      <project id="osintlab-architecture" values="JAVA_MODULE" collectionTime="1471525860010" />
+      <project id="POC_Distribution" values="JAVA_MODULE" collectionTime="1471618072447" />
+      <project id="POC_UI_Server" values="JAVA_MODULE" collectionTime="1471531130836" />
+      <project id="punchplatform-builder" values="JAVA_MODULE" collectionTime="1467900402334" />
+      <project id="cloudomc" values="JAVA_MODULE" collectionTime="1469025928827" />
+      <project id="KafkaOffsetMonitor" values="JAVA_MODULE,SBT_MODULE" collectionTime="1471508806061" />
+      <project id="kafka-offset-monitor-graphite" values="SBT_MODULE,JAVA_MODULE" collectionTime="1469719875779" />
+      <project id="punchplatform-spark-test" values="JAVA_MODULE" collectionTime="1467124985101" />
+      <project id="KafkaOffsetMonitor_EsPlugin" values="JAVA_MODULE,SBT_MODULE" collectionTime="1469719430741" />
+      <project id="simulator-monitoring" values="JAVA_MODULE" collectionTime="1469534311719" />
+      <project id="batchlayer" values="JAVA_MODULE" collectionTime="1469195111915" />
+      <project id="osintlab-bigdata" values="JAVA_MODULE" collectionTime="1471619004433" />
+      <project id="LMCAnomalyDetection" values="JAVA_MODULE,SBT_MODULE" collectionTime="1468224912399" />
+    </group>
+    <group name="vcs">
+      <project id="cloudomc" values="Git" collectionTime="1469025928827" />
+      <project id="punchplatform-builder" values="Git" collectionTime="1467900402334" />
+      <project id="LMCAnomalyDetection" values="Git" collectionTime="1468224912399" />
+      <project id="POC_Distribution" values="Git" collectionTime="1471618072447" />
+      <project id="KafkaOffsetMonitor" values="Git" collectionTime="1471508806061" />
+      <project id="kafka-producer" values="Git" collectionTime="1469453425269" />
+      <project id="kafka-offset-monitor-graphite" values="Git" collectionTime="1469719875774" />
+      <project id="osintlab-bigdata" values="Git" collectionTime="1471619004433" />
+      <project id="simulator-monitoring" values="Git" collectionTime="1469534311719" />
+    </group>
+    <group name="Spring Boot">
+      <project id="osintlab-bigdata" values="application.properties,ConfigurationProperties_2,RunConfigsPerProject_0" collectionTime="1471619004746" />
+      <project id="POC_Distribution" values="application.properties,RunConfigsPerProject_1" collectionTime="1471618072587" />
+      <project id="POC_UI_Server" values="RunConfigsPerProject_1" collectionTime="1471531131258" />
+      <project id="simulator-monitoring" values="RunConfigsPerProject_0" collectionTime="1469534311809" />
+      <project id="common-webservices" values="application.properties,ConfigurationProperties_2,RunConfigsPerProject_0" collectionTime="1469174334475" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="POC_Distribution" values="SpringBootApplicationConfigurationType" collectionTime="1471618072447" />
+      <project id="POC_UI_Server" values="SpringBootApplicationConfigurationType" collectionTime="1471531130836" />
+    </group>
+    <group name="Scala">
+      <project id="punchplatform-builder" values="Library  Akka for Java" collectionTime="1467900402499" />
+      <project id="osintlab-architecture" values="Library  Breeze,Scala  2.10.5,Library  Akka for Scala,Library  JUnit for Scala,Library  Spark" collectionTime="1471525860173" />
+      <project id="speedlayer" values="Library  Akka for Java" collectionTime="1469523232922" />
+      <project id="LMCAnomalyDetection" values="Library  Akka for Scala,Library  Spark,Library  Elastic4s,Library  JUnit for Scala,Scala  2.10.5" collectionTime="1468224912565" />
+      <project id="punchplatform-spark-test" values="Library  Akka for Java" collectionTime="1467124985219" />
+      <project id="KafkaOffsetMonitor_EsPlugin" values="Library  Slick,Library  JUnit for Scala,Scala  2.10.4" collectionTime="1469719430827" />
+      <project id="KafkaOffsetMonitor" values="Scala  2.10.4,Library  Slick,Library  JUnit for Scala,Library  ScalaTest" collectionTime="1471508806226" />
+      <project id="kafka-producer" values="Library  Akka for Java" collectionTime="1469453425413" />
+      <project id="kafka-offset-monitor-graphite" values="Library  Slick,Scala  2.10.5,Library  JUnit for Scala,Library  ScalaTest" collectionTime="1469719876694" />
+      <project id="osintlab-bigdata" values="Library  JUnit for Scala,Library  Spark,Scala  2.10.5,Library  Akka for Scala,Library  Breeze" collectionTime="1471619004736" />
+      <project id="cloudomc" values="Library  Spark,Library  Akka for Scala,Library  JUnit for Scala,Scala  2.11.4" collectionTime="1469025929144" />
+      <project id="batchlayer" values="Library  Akka for Java" collectionTime="1469195112080" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="cloudomc" values="Application" collectionTime="1469025928828" />
+      <project id="osintlab-architecture" values="Application" collectionTime="1471525860010" />
+      <project id="LMCAnomalyDetection" values="Application" collectionTime="1468224912399" />
+      <project id="punchplatform-spark-test" values="Application" collectionTime="1467124985101" />
+      <project id="common-webservices" values="Application" collectionTime="1469174333857" />
+      <project id="simulator-monitoring" values="Application" collectionTime="1469534311719" />
+    </group>
+    <group name="file-type">
+      <project id="kafka-producer" values="UNKNOWN,IDEA_MODULE,XML,JAVA" collectionTime="1469453425402" />
+      <project id="common-webservices" values="SQL,JAVA,PLAIN_TEXT,XML,IDEA_MODULE,Properties,Markdown" collectionTime="1469174334195" />
+      <project id="speedlayer" values="XML,IDEA_MODULE,JAVA" collectionTime="1469523232920" />
+      <project id="osintlab-architecture" values="XML,Scala,JAVA,PLAIN_TEXT,Bash,HOCON,UNKNOWN,IDEA_MODULE,Properties" collectionTime="1471525860168" />
+      <project id="POC_Distribution" values="IDEA_MODULE,YAML,XML,PLAIN_TEXT,JAVA,HTML,Properties,JavaScript,CSS,JSON,Markdown,Images,Bash" collectionTime="1471618072582" />
+      <project id="POC_UI_Server" values="Images,Bash,PLAIN_TEXT,JAVA,JavaScript,IDEA_MODULE,CSS,XML,JSON,HTML,Properties,Markdown" collectionTime="1471531131069" />
+      <project id="punchplatform-builder" values="C++,CSS,JavaScript,JSCS,HTML,HOCON,Cucumber,Native,TypeScript,ARCHIVE,CoffeeScript,XML,SourceMap,Images,Manifest,PLAIN_TEXT,IDEA_MODULE,UNKNOWN,YAML,JSHint,JAVA,JSON,UML,SCSS,Properties,CLASS,PATCH" collectionTime="1467900402459" />
+      <project id="cloudomc" values="UNKNOWN,SBT,Scala,CSS,ARCHIVE,JAVA,IDEA_MODULE,XML,PLAIN_TEXT,SQL,CLASS,Images,Properties" collectionTime="1469025928967" />
+      <project id="KafkaOffsetMonitor" values="SBT,ARCHIVE,XML,YAML,Markdown,Properties,PLAIN_TEXT,Images,UNKNOWN,JavaScript,Scala,HTML,CSS" collectionTime="1471508806223" />
+      <project id="kafka-offset-monitor-graphite" values="Properties,Markdown,Scala,PLAIN_TEXT,SBT" collectionTime="1469719876383" />
+      <project id="punchplatform-spark-test" values="XML,JAVA,IDEA_MODULE" collectionTime="1467124985217" />
+      <project id="KafkaOffsetMonitor_EsPlugin" values="CSS,Properties,SBT,Manifest,ARCHIVE,XML,UNKNOWN,Scala,PLAIN_TEXT" collectionTime="1469719430822" />
+      <project id="simulator-monitoring" values="Images,XML,Bash,JAVA,Properties,PLAIN_TEXT,IDEA_MODULE,Markdown" collectionTime="1469534311806" />
+      <project id="batchlayer" values="XML,JAVA,IDEA_MODULE" collectionTime="1469195112076" />
+      <project id="osintlab-bigdata" values="Markdown,Scala,JavaScript,IDEA_MODULE,Properties,CSS,XML,JAVA,Images,Bash,PLAIN_TEXT,HTML,UNKNOWN,SQL,HOCON" collectionTime="1471619004685" />
+      <project id="LMCAnomalyDetection" values="PLAIN_TEXT,SBT,Properties,CLASS,Scala,XML,JAVA,UNKNOWN,ARCHIVE" collectionTime="1468224912563" />
+    </group>
+    <group name="Spring MVC">
+      <project id="osintlab-bigdata" values="mvcModelsInProject_0" collectionTime="1471619004733" />
+      <project id="POC_Distribution" values="mvcModelsInProject_0" collectionTime="1471618072585" />
+      <project id="POC_UI_Server" values="mvcModelsInProject_0" collectionTime="1471531131249" />
+      <project id="simulator-monitoring" values="mvcModelsInProject_0" collectionTime="1469534311807" />
+      <project id="common-webservices" values="mvcModelsInProject_0" collectionTime="1469174334434" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="kafka-producer" values="Project,Project" collectionTime="1469453425410" />
+      <project id="common-webservices" values="Project,Project" collectionTime="1469174334422" />
+      <project id="speedlayer" values="Project,Project" collectionTime="1469523232922" />
+      <project id="osintlab-architecture" values="Project,Project" collectionTime="1471525860171" />
+      <project id="POC_Distribution" values="Project,Project" collectionTime="1471618072584" />
+      <project id="POC_UI_Server" values="Project,Project" collectionTime="1471531131237" />
+      <project id="punchplatform-builder" values="Project,Project" collectionTime="1467900402497" />
+      <project id="cloudomc" values="Project,Project" collectionTime="1469025929112" />
+      <project id="KafkaOffsetMonitor" values="Project,Project" collectionTime="1471508806224" />
+      <project id="kafka-offset-monitor-graphite" values="Project,Project" collectionTime="1469719876679" />
+      <project id="punchplatform-spark-test" values="Project,Project" collectionTime="1467124985219" />
+      <project id="KafkaOffsetMonitor_EsPlugin" values="Project,Project" collectionTime="1469719430825" />
+      <project id="simulator-monitoring" values="Project,Project" collectionTime="1469534311807" />
+      <project id="batchlayer" values="Project,Project" collectionTime="1469195112078" />
+      <project id="osintlab-bigdata" values="Project,Project" collectionTime="1471619004730" />
+      <project id="LMCAnomalyDetection" values="Project,Project" collectionTime="1468224912564" />
+    </group>
+    <group name="Git">
+      <project id="kafka-producer" values="config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.5+,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.force.push.enabled,config.push.update.all.roots.enabled" collectionTime="1469453425409" />
+      <project id="common-webservices" values="config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.ssh.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1469174334251" />
+      <project id="speedlayer" values="config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled" collectionTime="1469523232921" />
+      <project id="osintlab-architecture" values="config.warn.about.detached.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled" collectionTime="1471525860171" />
+      <project id="POC_Distribution" values="data.remote.branches.count.1,config.warn.about.detached.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,data.remote.branches.count.2+,config.save.policy.STASH,data.remotes.in.project.1,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.push.update.all.roots.enabled,data.local.branches.count.1,data.remote.branches.count.1,data.local.branches.count.1,data.remotes.in.project.1,data.local.branches.count.1,config.push.autoupdate.disabled,config.force.push.enabled,data.local.branches.count.1,data.remote.branches.count.1,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,data.remote.branches.count.1,data.remotes.in.project.1,config.ssh.enabled" collectionTime="1471618072583" />
+      <project id="POC_UI_Server" values="config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.warn.about.detached.enabled" collectionTime="1471531131122" />
+      <project id="punchplatform-builder" values="data.remotes.in.project.1,data.remote.branches.count.15+,config.warn.about.crlf.enabled,config.save.policy.STASH,config.force.push.enabled,config.push.autoupdate.disabled,data.local.branches.count.1,config.ssh.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled" collectionTime="1467900402496" />
+      <project id="cloudomc" values="config.ssh.enabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,data.remote.branches.count.5+,data.local.branches.count.2+,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled" collectionTime="1469025929003" />
+      <project id="KafkaOffsetMonitor" values="config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,data.remotes.in.project.1,data.local.branches.count.2+,config.save.policy.STASH,config.ssh.enabled,config.force.push.enabled,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled" collectionTime="1471508806224" />
+      <project id="kafka-offset-monitor-graphite" values="data.local.branches.count.1,config.push.update.all.roots.enabled,data.remote.branches.count.1,config.push.autoupdate.disabled,config.save.policy.STASH,config.force.push.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.enabled" collectionTime="1469719876446" />
+      <project id="punchplatform-spark-test" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED" collectionTime="1467124985218" />
+      <project id="KafkaOffsetMonitor_EsPlugin" values="config.save.policy.STASH,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.ssh.enabled" collectionTime="1469719430824" />
+      <project id="simulator-monitoring" values="config.push.update.all.roots.enabled,data.remote.branches.count.5+,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,data.local.branches.count.2+,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED" collectionTime="1469534311806" />
+      <project id="batchlayer" values="config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled" collectionTime="1469195112078" />
+      <project id="osintlab-bigdata" values="data.remote.branches.count.5+,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,data.local.branches.count.2+,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.save.policy.STASH" collectionTime="1471619004729" />
+      <project id="LMCAnomalyDetection" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,data.remote.branches.count.1,config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.enabled,config.warn.about.detached.enabled,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT" collectionTime="1468224912564" />
+    </group>
+    <group name="libraries">
+      <project id="kafka-producer" values="CDI,JAX-RS" collectionTime="1469453425408" />
+      <project id="common-webservices" values="CDI,WebSocket,spring-data-jpa,spring-mvc,hibernate,BatchApplications,TransactionJavaee,BeanValidation,EJB,spring-batch,spring,spring-boot,JAX-RS" collectionTime="1469174334244" />
+      <project id="speedlayer" values="JAX-RS,CDI" collectionTime="1469523232920" />
+      <project id="osintlab-architecture" values="Scala,CDI,JAX-RS" collectionTime="1471525860171" />
+      <project id="POC_Distribution" values="spring-data-jpa,TransactionJavaee,spring-boot,spring-mvc,hibernate,spring,WebSocket,BeanValidation,EJB" collectionTime="1471618072583" />
+      <project id="POC_UI_Server" values="spring-boot,spring-mvc,BeanValidation,WebSocket,spring,EJB" collectionTime="1471531131109" />
+      <project id="punchplatform-builder" values="groovy,BeanValidation,JAX-RS,CDI" collectionTime="1467900402495" />
+      <project id="cloudomc" values="CDI,Scala,JAX-RS" collectionTime="1469025928996" />
+      <project id="KafkaOffsetMonitor" values="Scala" collectionTime="1471508806224" />
+      <project id="kafka-offset-monitor-graphite" values="Scala" collectionTime="1469719876428" />
+      <project id="punchplatform-spark-test" values="CDI,JAX-RS" collectionTime="1467124985217" />
+      <project id="KafkaOffsetMonitor_EsPlugin" values="CDI,Scala" collectionTime="1469719430824" />
+      <project id="simulator-monitoring" values="spring-boot,EJB,spring-mvc,WebSocket,BeanValidation,spring" collectionTime="1469534311806" />
+      <project id="batchlayer" values="CDI,JAX-RS" collectionTime="1469195112077" />
+      <project id="osintlab-bigdata" values="spring,JAX-RS,spring-mvc,CDI,BatchApplications,hibernate,BeanValidation,EJB,spring-batch,WebSocket,Scala,spring-boot,TransactionJavaee,spring-data-jpa" collectionTime="1471619004728" />
+      <project id="LMCAnomalyDetection" values="CDI,Scala,JAX-RS" collectionTime="1468224912564" />
+    </group>
+    <group name="language-level">
+      <project id="kafka-producer" values="JDK_1_8" collectionTime="1469453425408" />
+      <project id="common-webservices" values="JDK_1_8,JDK_1_5" collectionTime="1469174334250" />
+      <project id="speedlayer" values="JDK_1_8" collectionTime="1469523232921" />
+      <project id="osintlab-architecture" values="JDK_1_5,JDK_1_8" collectionTime="1471525860171" />
+      <project id="POC_Distribution" values="JDK_1_5,JDK_1_8" collectionTime="1471618072583" />
+      <project id="POC_UI_Server" values="JDK_1_8" collectionTime="1471531131116" />
+      <project id="punchplatform-builder" values="JDK_1_7,JDK_1_5,JDK_1_8" collectionTime="1467900402496" />
+      <project id="cloudomc" values="JDK_1_8" collectionTime="1469025929001" />
+      <project id="KafkaOffsetMonitor" values="JDK_1_8" collectionTime="1471508806224" />
+      <project id="kafka-offset-monitor-graphite" values="JDK_1_8" collectionTime="1469719876442" />
+      <project id="punchplatform-spark-test" values="JDK_1_8" collectionTime="1467124985218" />
+      <project id="KafkaOffsetMonitor_EsPlugin" values="JDK_1_7" collectionTime="1469719430824" />
+      <project id="simulator-monitoring" values="JDK_1_8" collectionTime="1469534311806" />
+      <project id="batchlayer" values="JDK_1_8" collectionTime="1469195112078" />
+      <project id="osintlab-bigdata" values="JDK_1_5,JDK_1_8" collectionTime="1471619004729" />
+      <project id="LMCAnomalyDetection" values="JDK_1_8" collectionTime="1468224912564" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="7" />
+      <entry feature="execute.Application.Debug" count="2" />
+      <entry feature="execute.Application.Run" count="31" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="58" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="20" />
+      <entry feature="ide.help.spring.managing.file.sets" count="1" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Java_Compiler" count="2" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="8" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ideaapp.started" count="29" />
+      <entry feature="scala.file.script.parsed" count="40601" />
+      <entry feature="scala.file.with.type.aware.annotated" count="221" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="34" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />
+    </counts>
+  </component>
+</application>

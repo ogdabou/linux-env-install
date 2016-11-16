@@ -1,0 +1,19 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "fa1aa2dc-5f3f-42d6-adb9-0c0477611999"
+      analytics: false
+  "atom-lupa": {}
+  core:
+    ignoredNames: [
+      "dist"
+      "target"
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+    ]
+  "exception-reporting":
+    userId: "21e4f8ab-d9c0-2f0f-4506-f13d915b8870"

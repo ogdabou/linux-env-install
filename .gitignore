@@ -1,0 +1,5 @@
+temp
+*.log
+.fuse*
+*.tar.gz
+*.lock

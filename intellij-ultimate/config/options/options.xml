@@ -1,0 +1,30 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.16" value="19" />
+    <property name="installed.kotlin.plugin.version" value="1.0.1-release-IJ143-46" />
+    <property name="installation.uid" value="e8bdf0f3-bc53-48f5-a8ae-2844a38525fa" />
+    <property name="android-component-compatibility-check" value="1471334694064" />
+    <property name="project.wizard.group" value="Scala" />
+    <property name="project.wizard.template" value="SBT" />
+    <property name="PLUGIN_FILTER" value="sbt&#10;scala" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/git/Personnel/POC_Distribution&#10;/home/couty/git/osintlab-bigdata&#10;/home/couty/git/osintlab-bigdata/osintlab-architecture&#10;/home/couty/git/Personnel/POC_Crawler_Master&#10;/home/couty/git/KafkaOffsetMonitor&#10;/home/couty/git/osintlab-bigdata/osintlab-architecture/pom.xml&#10;/home/couty/git/Personnel/POC_PDFScrapper/pom.xml&#10;/home/couty/git/Personnel/POC_PDFScrapper&#10;/home/couty/git/Personnel/POC_UI_Server&#10;/home/couty/git/cattle&#10;/home/couty/git/kafka-offset-monitor-graphite&#10;/usr/lib/jvm/java-8-oracle&#10;/home/couty/git/KafkaOffsetMonitor_EsPlugin&#10;/usr/lib/jvm/jdk1.7.0_79&#10;/home/couty/git/LMCAnomalyDetection&#10;/home/couty/git/osintlab-bigdata/pom.xml&#10;/home/couty/git/osintlab-bigdata/monitor-kafka/pom.xml&#10;/home/couty/git/osintlab-bigdata/osintlab-architecture/kafka-producer&#10;/home/couty/git/osintlab-bigdata/osintlab-architecture/kafka-producer/src/main/java&#10;/home/couty/git/osintlab-bigdata/osintlab-architecture/kafka-producer/pom.xml&#10;/home/couty/git/osintlab-bigdata/osintlab-architecture/batchlayer/pom.xml&#10;/home/couty/git/osintlab-bigdata/osintlab-bigdata-server/pom.xml&#10;/home/couty/git/osintlab-bigdata/osintlab-bigdada-server/pom.xml&#10;/home/couty/git/osintlab-bigdata/osintlab-architecture/speedlayer/pom.xml&#10;/home/couty/git/osintlab-bigdata/monitor-kafka&#10;/home/couty/git/POC_PDFScrapper/pom.xml&#10;/home/couty/git/LMCAnomalyDetection/pom.xml&#10;/home/couty/git/pp-core&#10;/home/couty/git/copula_anomaly_detection" />
+    <property name="last.imported.location" value="$USER_HOME$/git/osintlab-bigdata/monitor-kafka" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="1" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="scala.last.updated" value="1469806199270" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="evlsprt.16" value="156d10fb845" />
+    <property name="evlsprt2.16" value="15692620cf5" />
+    <property name="Copy.OpenInEditor" value="true" />
+  </component>
+</application>

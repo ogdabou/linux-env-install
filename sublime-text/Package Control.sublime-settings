@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"AutoFileName",
+		"Babel",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"ESLint",
+		"ESLint-Formatter",
+		"FileDiffs",
+		"Function Name Display",
+		"GitSavvy",
+		"Goto-CSS-Declaration",
+		"JavaScript Completions",
+		"JavaScriptFunctionDefinition",
+		"JSHint",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"Package Control",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SmartMarkdown"
+	]
+}
