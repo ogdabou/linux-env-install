@@ -17,3 +17,6 @@
     ]
   "exception-reporting":
     userId: "21e4f8ab-d9c0-2f0f-4506-f13d915b8870"
+  "terminal-plus":
+    core:
+      mapTerminalsTo: "Folder"
