@@ -1,0 +1,10 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "indent": ["error", 2],
+    "no-unused-vars": "warn",
+    "max-len": [1,150],
+    "strict": 0,
+    "arrow-body-style": ["error", "always"]
+  }
+}

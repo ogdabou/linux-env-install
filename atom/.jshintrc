@@ -1,0 +1,20 @@
+{
+  "browser": true,
+  "jquery": true,
+  "node": true,
+  "predef": ["twttr", "angular"],
+  "camelcase": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "indent": 2,
+  "latedef": true,
+  "newcap": true,
+  "quotmark": "single",
+  "trailing": true,
+  "undef": true,
+  "unused": true,
+  "maxlen": 100,
+  "strict": true,
+  "asi": true,
+  "esversion": 6
+}
