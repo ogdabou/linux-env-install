@@ -8,7 +8,7 @@ set -x
 cd $TEMPDIR
 dir=firefox-developer
 mkdir -p $dir
-wget -nc -O $dir.tar.bz2 https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-aurora-l10n/firefox-51.0a2.fr.linux-x86_64.tar.bz2
+wget -nc -O $dir.tar.bz2 https://archive.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-53.0a1.fr.linux-x86_64.tar.bz2
 tar -xvjf $dir.tar.bz2 -C $TEMPDIR/$dir --strip 1
 mkdir -p ~/apps/$dir
 ls
